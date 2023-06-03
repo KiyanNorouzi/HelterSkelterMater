@@ -1,3 +1,3 @@
 # HelterSkelterMater
 2D hide and seek game inspired by Party Hard 
-HelterSkelter.png
+![IMAGE_DESCRIPTION](https://github.com/KiyanNorouzi/HelterSkelterMater/blob/main/HelterSkelter.png)  
